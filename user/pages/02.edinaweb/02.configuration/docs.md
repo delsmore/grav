@@ -2,4 +2,4 @@
 title: Configuration
 ---
 
-config2
+config22
