@@ -1,0 +1,11 @@
+email: david.elsmore@gmail.com
+fullname: 'David Elsmore'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$wzIiESQSGCRDrFO5.GCGNuRUmu4mKcvMFx2Zj50c1OAqM/smzW.Fq
