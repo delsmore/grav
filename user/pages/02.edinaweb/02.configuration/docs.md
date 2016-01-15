@@ -2,4 +2,4 @@
 title: Configuration
 ---
 
-test2345
+just testing
