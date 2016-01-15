@@ -2,4 +2,4 @@
 title: Configuration
 ---
 
-just 
+just a test
