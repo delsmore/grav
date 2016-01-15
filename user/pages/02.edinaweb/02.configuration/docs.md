@@ -2,4 +2,4 @@
 title: Configuration
 ---
 
-config22
+test config
