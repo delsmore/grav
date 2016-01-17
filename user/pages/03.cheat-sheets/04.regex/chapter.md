@@ -2,7 +2,7 @@
 title: Regex
 ---
 
-#####Special Characters in Regular Expressions & their meanings
+#####Special Characters in Regular Expressions & their meanings.
 
 | Character | Meaning   | Example   |
 |
