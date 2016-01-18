@@ -1,5 +1,5 @@
 # v1.2.0
-## 01/06/2016
+## 01/06/2015
 
 1. [](#bugfix)
     * Correctly merge the file field configuration
