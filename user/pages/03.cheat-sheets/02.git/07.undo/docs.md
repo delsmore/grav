@@ -11,7 +11,7 @@ taxonomy:
 
 #####Discard local changes in a specific file
 
-	$ git checkout HEAD < le>
+	$ git checkout HEAD <file>
 
 #####Revert a commit (by producing a new commit with contrary changes)
 
@@ -29,4 +29,3 @@ taxonomy:
 
 	$ git reset --keep <commit>
     
-   
